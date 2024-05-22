@@ -1,1 +1,1 @@
-strcmp will terminate at null string
+strcmp will terminate at null char
