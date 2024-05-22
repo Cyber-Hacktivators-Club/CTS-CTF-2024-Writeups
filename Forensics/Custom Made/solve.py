@@ -23,4 +23,4 @@ for i in range((5333 * 4) - 1):
     if extra > 0:
         hidden_data += sgi_data[offs[i] + lens[i]:offs[i] + lens[i] + extra]
 
-print('Flag 4:', hidden_data.decode("utf-8"))
+print('Flag:', hidden_data.decode("utf-8"))
